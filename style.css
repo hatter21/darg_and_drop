@@ -1,0 +1,25 @@
+	 body {
+	 background-color: white;  
+    }
+    .drag-block
+    {
+    position: absolute;
+    top:50px; 
+    left:50px; 
+    cursor: pointer;
+    background-color: yellowgreen; 
+    width:100px; 
+    height:100px       
+    }
+    .size-up
+    {
+    display:inline-block;
+    float:left;
+    vertical-align:top;
+    background: yellow;
+    height:10px;
+    width:10px;
+    font-size:0px;
+    line-height:0px;
+    }
+
